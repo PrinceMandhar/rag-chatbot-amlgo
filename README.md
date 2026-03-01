@@ -25,8 +25,6 @@ build_index.py → Script to create embeddings and FAISS index
 requirements.txt
 README.md
 
-yaml
-Copy code
 
 ---
 
@@ -59,15 +57,11 @@ Copy code
 
 pip install -r requirements.txt
 
-shell
-Copy code
 
 ### Step 2 – Build Vector Index
 
 python build_index.py
 
-shell
-Copy code
 
 This step creates embeddings and saves FAISS index.
 
@@ -75,8 +69,6 @@ This step creates embeddings and saves FAISS index.
 
 streamlit run app.py
 
-yaml
-Copy code
 
 Open in browser:
 http://localhost:8501
