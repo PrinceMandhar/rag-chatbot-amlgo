@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+transformers
+torch
+numpy
+langchain
+langchain-text-splitters
+openai
