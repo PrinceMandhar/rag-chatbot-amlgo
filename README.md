@@ -1,5 +1,5 @@
 # RAG Chatbot with Streaming Response  
-## Junior AI Engineer Assignment – Amlgo Labs
+
 
 ---
 
